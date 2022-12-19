@@ -21,5 +21,9 @@ Run go webserver
 go run *.go
 ```
 
+```bash
+curl 'http://localhost:7777/hello'
+```
+
 [Check logz tracing](https://app.logz.io/#/dashboard/kibana)
 
